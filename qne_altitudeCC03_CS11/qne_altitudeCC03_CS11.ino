@@ -1,6 +1,6 @@
-#include <xCore.h>  //add core library
-#include <xSW01.h>  //add weather sensor library
-#include <xOD01.h>  //add OLED screen library
+#include <xCore.h>  //add core library https://github.com/xinabox/xCore
+#include <xSW01.h>  //add weather sensor library https://github.com/xinabox/xOD01
+#include <xOD01.h>  //add oled library https://github.com/xinabox/xCore
 
 #if defined(ESP8266)
 #define RED   RED
